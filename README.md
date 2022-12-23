@@ -11,4 +11,6 @@
 #### - Marketing: identificar clientes com perfil semelhante, segmentação de mercado.
 #### - Visão computacional: segmentação de imagens.
 
+![Mind Map](/home/ramiro/Documentos/repos/clustering_animals/img)
+
 
